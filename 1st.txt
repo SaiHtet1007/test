@@ -1,4 +1,7 @@
 - git inti(git initialization)
 - git add filename(to add file)
 - git commit -m "message" (to create a snapshot)
-- change
+- git push origin master
+
+clone
+- git clone https://
